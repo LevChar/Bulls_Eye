@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mastermind.Logic", "MasterMindLogic\Project\Mastermind.Logic.csproj", "{94995F4F-BE6E-4363-8D61-B7B7938F5AAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mastemind.Ui", "MasterMindUI\Mastemind.Ui.csproj", "{ECBAE111-2C78-4C51-8A78-91FE2999FA59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94995F4F-BE6E-4363-8D61-B7B7938F5AAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94995F4F-BE6E-4363-8D61-B7B7938F5AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94995F4F-BE6E-4363-8D61-B7B7938F5AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94995F4F-BE6E-4363-8D61-B7B7938F5AAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBAE111-2C78-4C51-8A78-91FE2999FA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBAE111-2C78-4C51-8A78-91FE2999FA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBAE111-2C78-4C51-8A78-91FE2999FA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBAE111-2C78-4C51-8A78-91FE2999FA59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDE1DA09-C1A6-40CA-80FF-9E9A9FA330EF}
+	EndGlobalSection
+EndGlobal
