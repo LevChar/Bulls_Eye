@@ -1,2 +1,2 @@
-# Bulls_Eye
-Bulls Eye game in Windows environment
+# MasterMind
+MasterMind game in Windows environment, written in C#
