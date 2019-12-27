@@ -1,2 +1,4 @@
 # MasterMind
-MasterMind game in Windows environment, written in C#, using Visual Studion 2017.
+MasterMind game (for Windows OS environment).
+
+Written in C#, using Visual Studio 2017.
